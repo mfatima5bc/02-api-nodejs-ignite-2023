@@ -1,11 +1,18 @@
-# RF
+
+## Simple financial backend project
+Just a simple project to learn a little about the following tools:
+- Knex;
+- Vitest;
+- Fastfy;
+
+### RF
 
 - [x] O usuário deve poder criar uma nova transação;
 - [x] O usuário deve poder obter um resumo da sua conta;
 - [x] O usuário deve poder listar todas transações que já ocorreram;
 - [x] O usuário deve poder visualizar uma transação única;
 
-# RN
+### RN
 
 - [x] A transação pode ser do tipo crédito que somará ao valor total, ou débito subtrairá;
 - [x] Deve ser possível identificar o usuário entre as requisições;
